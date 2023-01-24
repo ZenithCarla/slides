@@ -2,6 +2,7 @@
 
 Projeto desenvolvido para estudo e aplicação de JavaScript Web pelo canal do **Bonieky Lacerda**.
 O objetivo do estudo é de juntar em um único projeto o uso de HTML, CSS e JavaScript, aplicando os conhecimentos adquiridos.
+Nele simulei uma página, somente para poder estudar os conceitos para criação de um slidershow em uma página-web.
 
 
 **Próximo passo:** será melhorar os botões da aplicação.
